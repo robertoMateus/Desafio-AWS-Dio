@@ -127,7 +127,7 @@ Recomenda-se a **continuidade da utilização das ferramentas implementadas** e 
 <br>
 
 _______________________________________________  
-**John Mitchell**  
+**Roberto Mateus**  
 Arquiteto de Soluções Cloud  
 Responsável pelo Projeto de Implementação AWS  
 Abstergo Industries — Março/2026
