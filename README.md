@@ -16,14 +16,14 @@
 |-------|----------|
 | 📅 **Data de Início** | 04 de Março de 2026 |
 | 🏢 **Empresa** | Abstergo Industries |
-| 👤 **Responsável** | John Mitchell — Arquiteto de Soluções Cloud |
+| 👤 **Responsável** | Roberto Mateus — Arquiteto de Soluções Cloud |
 | 🎯 **Objetivo** | Redução imediata de custos operacionais com migração para AWS |
 
 ---
 
 ## 📌 Introdução
 
-Este relatório apresenta o processo de implementação de ferramentas na empresa **Abstergo Industries**, realizado por **John Mitchell**. O objetivo do projeto foi elencar **3 serviços AWS estratégicos** com a finalidade de promover a **redução imediata de custos** operacionais, eliminando gastos com infraestrutura física desnecessária e otimizando o consumo de recursos de TI.
+Este relatório apresenta o processo de implementação de ferramentas na empresa **Abstergo Industries**, realizado por **Roberto Mateus**. O objetivo do projeto foi elencar **3 serviços AWS estratégicos** com a finalidade de promover a **redução imediata de custos** operacionais, eliminando gastos com infraestrutura física desnecessária e otimizando o consumo de recursos de TI.
 
 A iniciativa faz parte do plano de modernização tecnológica da empresa, alinhando-se às melhores práticas de arquitetura em nuvem e ao modelo de pagamento por uso (*pay-as-you-go*) da AWS.
 
